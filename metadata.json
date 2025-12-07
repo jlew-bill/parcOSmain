@@ -1,0 +1,5 @@
+{
+  "name": "ParcOS",
+  "description": "A cognitive spatial operating system with VisionOS aesthetics, featuring the BILL runtime engine and ParcTalk natural language interpreter.",
+  "requestFramePermissions": []
+}
